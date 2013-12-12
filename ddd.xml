@@ -1,0 +1,966 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:exif='http://schemas.google.com/photos/exif/2007'
+	xmlns:gphoto='http://schemas.google.com/photos/2007' xmlns:media='http://search.yahoo.com/mrss/'
+	xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'>
+	<id>https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841
+	</id>
+	<updated>2013-11-15T21:17:17.364Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#album' />
+	<title type='text'>Tessa d'Jappervilla</title>
+	<subtitle type='text' />
+	<rights type='text'>public</rights>
+	<icon>https://lh5.googleusercontent.com/-aH1HfcfL2A8/UmsxCdOJO2E/AAAAAAAAT7E/9ZaVx7udUyo/s160-c/TessaDJappervilla.jpg
+	</icon>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+		href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841' />
+	<link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml'
+		href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841?tok=QUI1UGxRWjBwaExiSGUxMndfdlBQeVYtWi05U2l2X3RzQToxMzg2MTUwNDg5OTU4' />
+	<link rel='http://schemas.google.com/g/2005#resumable-create-media'
+		type='application/atom+xml'
+		href='https://picasaweb.google.com/data/upload/resumable/media/create-session/feed/api/user/101488109748928583216/albumid/5938894451891583841?tok=QUI1UGxRYlQ0QV9IdkpRWmpWd3dlb0loMGZPNnp2U1RxUToxMzg2MTUwNDg5OTU4' />
+	<link rel='alternate' type='text/html'
+		href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla' />
+	<link rel='http://schemas.google.com/photos/2007#slideshow' type='application/x-shockwave-flash'
+		href='https://static.googleusercontent.com/external_content/picasaweb.googleusercontent.com/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841?alt%3Drss' />
+	<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+		href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841' />
+	<link rel='http://schemas.google.com/acl/2007#accessControlList'
+		type='application/atom+xml'
+		href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/acl' />
+	<link rel='self' type='application/atom+xml'
+		href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841?start-index=1&amp;max-results=1000' />
+	<author>
+		<name>richard schmidt</name>
+		<uri>https://picasaweb.google.com/101488109748928583216</uri>
+	</author>
+	<generator version='1.00' uri='http://picasaweb.google.com/'>Picasaweb</generator>
+	<openSearch:totalResults>12</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+	<gphoto:id>5938894451891583841</gphoto:id>
+	<gphoto:name>TessaDJappervilla</gphoto:name>
+	<gphoto:location />
+	<gphoto:access>public</gphoto:access>
+	<gphoto:timestamp>1382756617000</gphoto:timestamp>
+	<gphoto:numphotos>12</gphoto:numphotos>
+	<gphoto:numphotosremaining>1988</gphoto:numphotosremaining>
+	<gphoto:bytesUsed>18650647</gphoto:bytesUsed>
+	<gphoto:user>101488109748928583216</gphoto:user>
+	<gphoto:nickname>richard schmidt</gphoto:nickname>
+	<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+	<gphoto:commentCount>0</gphoto:commentCount>
+	<gphoto:allowPrints>true</gphoto:allowPrints>
+	<gphoto:allowDownloads>true</gphoto:allowDownloads>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894456714350066
+		</id>
+		<published>2013-10-26T03:03:38.000Z</published>
+		<updated>2013-10-29T23:51:12.942Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-10-26 09.36.22.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh4.googleusercontent.com/-GGLasOTPgxk/UmsxCvL-zfI/AAAAAAAATno/wP-1Ql82kIs/2013-10-26%25252009.36.22.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894456714350066' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5938894456714350066' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/uYke4JSp8zoG76BVb4uZkdMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894456714350066' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894456714350066/6?tok=QUI1UGxRWTNhSTNLR0ZyUUhGek93aHhZc1MzQWxoYUVUZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894456714350066/6?tok=QUI1UGxRWmg0d3FYMF82cTZ3Wk5lTWRielZGdDFGczkwUToxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894456714350066/6?tok=QUI1UGxRWmg0d3FYMF82cTZ3Wk5lTWRielZGdDFGczkwUToxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5938894456714350066' />
+		<gphoto:id>5938894456714350066</gphoto:id>
+		<gphoto:version>6</gphoto:version>
+		<gphoto:position>1.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>1536</gphoto:width>
+		<gphoto:height>2048</gphoto:height>
+		<gphoto:size>1652740</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1382733381000</gphoto:timestamp>
+		<gphoto:imageVersion>20090</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>1</gphoto:commentCount>
+		<gphoto:streamId>cs_01_a02e02a8fd556470c0cc4caecfc9c221
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>0.0025839794</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1382780181000</exif:time>
+			<exif:imageUniqueID>e1d90f87a073c8aba85cd7b5174688ef
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh4.googleusercontent.com/-GGLasOTPgxk/UmsxCvL-zfI/AAAAAAAATno/wP-1Ql82kIs/2013-10-26%25252009.36.22.jpg'
+				height='512' width='384' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-GGLasOTPgxk/UmsxCvL-zfI/AAAAAAAATno/wP-1Ql82kIs/s72/2013-10-26%25252009.36.22.jpg'
+				height='72' width='54' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-GGLasOTPgxk/UmsxCvL-zfI/AAAAAAAATno/wP-1Ql82kIs/s144/2013-10-26%25252009.36.22.jpg'
+				height='144' width='108' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-GGLasOTPgxk/UmsxCvL-zfI/AAAAAAAATno/wP-1Ql82kIs/s288/2013-10-26%25252009.36.22.jpg'
+				height='288' width='216' />
+			<media:title type='plain'>2013-10-26 09.36.22.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894718544313074
+		</id>
+		<published>2013-10-26T03:04:39.000Z</published>
+		<updated>2013-10-26T03:08:49.939Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-10-13 14.45.04.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh5.googleusercontent.com/-9iuofsFdGUI/UmsxR-lG-vI/AAAAAAAATn0/esDP4h6_Naw/2013-10-13%25252014.45.04.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894718544313074' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5938894718544313074' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/WI46Adqe-pxKqt8KdzN0dNMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894718544313074' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894718544313074/3?tok=QUI1UGxRWk4tWlFFa1MtVVM3Ym1BU2JKU2hacWFLWFM1QToxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894718544313074/3?tok=QUI1UGxRYm80Q2lqc3lsaE5OWkxPVVVEaC1IVjI0SkVZZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894718544313074/3?tok=QUI1UGxRYm80Q2lqc3lsaE5OWkxPVVVEaC1IVjI0SkVZZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5938894718544313074' />
+		<gphoto:id>5938894718544313074</gphoto:id>
+		<gphoto:version>3</gphoto:version>
+		<gphoto:position>2.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>1536</gphoto:width>
+		<gphoto:height>2048</gphoto:height>
+		<gphoto:size>1981995</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1381628704000</gphoto:timestamp>
+		<gphoto:imageVersion>20093</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_d949b2760f1b1fd48eb2fd8ed99de9f9
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>8.802817E-4</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1381675504000</exif:time>
+			<exif:imageUniqueID>7a0e16321a3a39a42d060142a5b11e07
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh5.googleusercontent.com/-9iuofsFdGUI/UmsxR-lG-vI/AAAAAAAATn0/esDP4h6_Naw/2013-10-13%25252014.45.04.jpg'
+				height='512' width='384' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-9iuofsFdGUI/UmsxR-lG-vI/AAAAAAAATn0/esDP4h6_Naw/s72/2013-10-13%25252014.45.04.jpg'
+				height='72' width='54' />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-9iuofsFdGUI/UmsxR-lG-vI/AAAAAAAATn0/esDP4h6_Naw/s144/2013-10-13%25252014.45.04.jpg'
+				height='144' width='108' />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-9iuofsFdGUI/UmsxR-lG-vI/AAAAAAAATn0/esDP4h6_Naw/s288/2013-10-13%25252014.45.04.jpg'
+				height='288' width='216' />
+			<media:title type='plain'>2013-10-13 14.45.04.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894789094892114
+		</id>
+		<published>2013-10-26T03:04:56.000Z</published>
+		<updated>2013-10-28T06:53:36.301Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-10-13 14.44.34.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh3.googleusercontent.com/-zi9mGRSjhQ8/UmsxWFZrYlI/AAAAAAAATn8/pA9z8qEEl2Q/2013-10-13%25252014.44.34.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894789094892114' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5938894789094892114' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/N_wrkM9sZH6e13Gkc9yYXNMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894789094892114' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894789094892114/4?tok=QUI1UGxRWnE3c2FGTzJUdnh0UlNjWlBZZWI1ZHRCNFdaZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894789094892114/4?tok=QUI1UGxRWjB2NzZkM3laaVJtNFpUZ3ZhWEZKWWxJVTN2UToxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5938894789094892114/4?tok=QUI1UGxRWjB2NzZkM3laaVJtNFpUZ3ZhWEZKWWxJVTN2UToxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5938894789094892114' />
+		<gphoto:id>5938894789094892114</gphoto:id>
+		<gphoto:version>4</gphoto:version>
+		<gphoto:position>3.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>2048</gphoto:width>
+		<gphoto:height>1536</gphoto:height>
+		<gphoto:size>2147196</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1381628673000</gphoto:timestamp>
+		<gphoto:imageVersion>20095</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_7c32af72b5a06169346c4ce1c80ae50e
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>0.0013262599</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1381675473000</exif:time>
+			<exif:imageUniqueID>1cef8d8ae0019f99f77547bc38211de6
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh3.googleusercontent.com/-zi9mGRSjhQ8/UmsxWFZrYlI/AAAAAAAATn8/pA9z8qEEl2Q/2013-10-13%25252014.44.34.jpg'
+				height='384' width='512' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh3.googleusercontent.com/-zi9mGRSjhQ8/UmsxWFZrYlI/AAAAAAAATn8/pA9z8qEEl2Q/s72/2013-10-13%25252014.44.34.jpg'
+				height='54' width='72' />
+			<media:thumbnail
+				url='https://lh3.googleusercontent.com/-zi9mGRSjhQ8/UmsxWFZrYlI/AAAAAAAATn8/pA9z8qEEl2Q/s144/2013-10-13%25252014.44.34.jpg'
+				height='108' width='144' />
+			<media:thumbnail
+				url='https://lh3.googleusercontent.com/-zi9mGRSjhQ8/UmsxWFZrYlI/AAAAAAAATn8/pA9z8qEEl2Q/s288/2013-10-13%25252014.44.34.jpg'
+				height='216' width='288' />
+			<media:title type='plain'>2013-10-13 14.44.34.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694546731880962
+		</id>
+		<published>2013-10-28T06:48:24.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-10-28 09.44.03.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh6.googleusercontent.com/-LorSKu4Pr24/Um4IuGxHUgI/AAAAAAAATvA/8Ma19zJlPmQ/2013-10-28%25252009.44.03.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694546731880962' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5939694546731880962' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/cyk5h-r4GZ_a1qYDNjSbrdMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694546731880962' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694546731880962/4?tok=QUI1UGxRYjl4dVZtcmtiOEhRcHNVWWJDUTMyamx2NTdGdzoxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694546731880962/4?tok=QUI1UGxRYUFXOHktLWFkTzRrS2Qzc01tUFJmQjU5YmVBdzoxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694546731880962/4?tok=QUI1UGxRYUFXOHktLWFkTzRrS2Qzc01tUFJmQjU5YmVBdzoxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5939694546731880962' />
+		<gphoto:id>5939694546731880962</gphoto:id>
+		<gphoto:version>4</gphoto:version>
+		<gphoto:position>4.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>2048</gphoto:width>
+		<gphoto:height>1536</gphoto:height>
+		<gphoto:size>1912818</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1382906643000</gphoto:timestamp>
+		<gphoto:imageVersion>20208</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_ed04efdf0d244e64fdeea00d54c54cd8
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>0.0015625</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1382953443000</exif:time>
+			<exif:imageUniqueID>24b30a35eea034e072762d299ef0ab3b
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh6.googleusercontent.com/-LorSKu4Pr24/Um4IuGxHUgI/AAAAAAAATvA/8Ma19zJlPmQ/2013-10-28%25252009.44.03.jpg'
+				height='384' width='512' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-LorSKu4Pr24/Um4IuGxHUgI/AAAAAAAATvA/8Ma19zJlPmQ/s72/2013-10-28%25252009.44.03.jpg'
+				height='54' width='72' />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-LorSKu4Pr24/Um4IuGxHUgI/AAAAAAAATvA/8Ma19zJlPmQ/s144/2013-10-28%25252009.44.03.jpg'
+				height='108' width='144' />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-LorSKu4Pr24/Um4IuGxHUgI/AAAAAAAATvA/8Ma19zJlPmQ/s288/2013-10-28%25252009.44.03.jpg'
+				height='216' width='288' />
+			<media:title type='plain'>2013-10-28 09.44.03.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694665866498386
+		</id>
+		<published>2013-10-28T06:48:52.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-10-28 09.48.12.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh4.googleusercontent.com/-9ZGEKyms2hQ/Um4I1ClBUVI/AAAAAAAATvI/R67ULsTCRF8/2013-10-28%25252009.48.12.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694665866498386' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5939694665866498386' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/GmZ7aebhU3lSSDGJEVNc1NMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694665866498386' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694665866498386/4?tok=QUI1UGxRWlpTZHk2TE83VkNYbTNMVVJEUm5idUJWR0cxUToxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694665866498386/4?tok=QUI1UGxRWTY0T2NfeDZ1Sks4MjZuTExPRHRFMWtPaVNLUToxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939694665866498386/4?tok=QUI1UGxRWTY0T2NfeDZ1Sks4MjZuTExPRHRFMWtPaVNLUToxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5939694665866498386' />
+		<gphoto:id>5939694665866498386</gphoto:id>
+		<gphoto:version>4</gphoto:version>
+		<gphoto:position>5.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>1536</gphoto:width>
+		<gphoto:height>2048</gphoto:height>
+		<gphoto:size>2355325</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1382906892000</gphoto:timestamp>
+		<gphoto:imageVersion>20210</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_d671f7edc420f7d0ec4a0a46a8721b0e
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>8.7260036E-4</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1382953692000</exif:time>
+			<exif:imageUniqueID>0eb24caadfc42299f530cfa0013a8c20
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh4.googleusercontent.com/-9ZGEKyms2hQ/Um4I1ClBUVI/AAAAAAAATvI/R67ULsTCRF8/2013-10-28%25252009.48.12.jpg'
+				height='512' width='384' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-9ZGEKyms2hQ/Um4I1ClBUVI/AAAAAAAATvI/R67ULsTCRF8/s72/2013-10-28%25252009.48.12.jpg'
+				height='72' width='54' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-9ZGEKyms2hQ/Um4I1ClBUVI/AAAAAAAATvI/R67ULsTCRF8/s144/2013-10-28%25252009.48.12.jpg'
+				height='144' width='108' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-9ZGEKyms2hQ/Um4I1ClBUVI/AAAAAAAATvI/R67ULsTCRF8/s288/2013-10-28%25252009.48.12.jpg'
+				height='288' width='216' />
+			<media:title type='plain'>2013-10-28 09.48.12.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939554100992305346
+		</id>
+		<published>2013-10-27T21:43:24.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-10-28 10.17.12.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh6.googleusercontent.com/-gBx8-Aj2KYE/Um2I_FncaMI/AAAAAAAATvM/j5WRb_Gi130/2013-10-28%25252010.17.12.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939554100992305346' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5939554100992305346' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/Fq1eBqnYo_RvuL87Q5lQktMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939554100992305346' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939554100992305346/6?tok=QUI1UGxRYk8wU2xPMzlfdVZiMGN2WW5haDJvak5pcVJFdzoxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939554100992305346/6?tok=QUI1UGxRYWVJUnBQVlpSdGFtaHZBM0l5RVZvemdIc2hVdzoxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939554100992305346/6?tok=QUI1UGxRYWVJUnBQVlpSdGFtaHZBM0l5RVZvemdIc2hVdzoxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5939554100992305346' />
+		<gphoto:id>5939554100992305346</gphoto:id>
+		<gphoto:version>6</gphoto:version>
+		<gphoto:position>6.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>2048</gphoto:width>
+		<gphoto:height>1536</gphoto:height>
+		<gphoto:size>2149591</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1382908631000</gphoto:timestamp>
+		<gphoto:imageVersion>20211</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_ccdd9797964656e1707dec33cfce14e4
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>0.0014492754</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1382955431000</exif:time>
+			<exif:imageUniqueID>74b7fb662321aa2377cc23ebf1def29d
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh6.googleusercontent.com/-gBx8-Aj2KYE/Um2I_FncaMI/AAAAAAAATvM/j5WRb_Gi130/2013-10-28%25252010.17.12.jpg'
+				height='384' width='512' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-gBx8-Aj2KYE/Um2I_FncaMI/AAAAAAAATvM/j5WRb_Gi130/s72/2013-10-28%25252010.17.12.jpg'
+				height='54' width='72' />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-gBx8-Aj2KYE/Um2I_FncaMI/AAAAAAAATvM/j5WRb_Gi130/s144/2013-10-28%25252010.17.12.jpg'
+				height='108' width='144' />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-gBx8-Aj2KYE/Um2I_FncaMI/AAAAAAAATvM/j5WRb_Gi130/s288/2013-10-28%25252010.17.12.jpg'
+				height='216' width='288' />
+			<media:title type='plain'>2013-10-28 10.17.12.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939553480764282242
+		</id>
+		<published>2013-10-27T21:40:59.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-10-28 10.20.15.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh4.googleusercontent.com/-eES5CLPGjxA/Um2Ia_Fj1YI/AAAAAAAATvM/LzaFWaZTT00/2013-10-28%25252010.20.15.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939553480764282242' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5939553480764282242' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/hymOm69Ti1Pce0k-_ROYttMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939553480764282242' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939553480764282242/6?tok=QUI1UGxRWUlIQldjMVgwcndkdThOOExvUG1QZWUxNmVSQToxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939553480764282242/6?tok=QUI1UGxRWWU4MEdnNkpPUXRPOTJKR3FkVDVmdVRlSnRCZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5939553480764282242/6?tok=QUI1UGxRWWU4MEdnNkpPUXRPOTJKR3FkVDVmdVRlSnRCZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5939553480764282242' />
+		<gphoto:id>5939553480764282242</gphoto:id>
+		<gphoto:version>6</gphoto:version>
+		<gphoto:position>7.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>2048</gphoto:width>
+		<gphoto:height>1536</gphoto:height>
+		<gphoto:size>1084761</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1382908815000</gphoto:timestamp>
+		<gphoto:imageVersion>20211</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_62ba208e7b1b82c9662ae74c4f8baa2e
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>0.0011587485</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1382955615000</exif:time>
+			<exif:imageUniqueID>85dbc8347535f953372c00eb73e2ee62
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh4.googleusercontent.com/-eES5CLPGjxA/Um2Ia_Fj1YI/AAAAAAAATvM/LzaFWaZTT00/2013-10-28%25252010.20.15.jpg'
+				height='384' width='512' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-eES5CLPGjxA/Um2Ia_Fj1YI/AAAAAAAATvM/LzaFWaZTT00/s72/2013-10-28%25252010.20.15.jpg'
+				height='54' width='72' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-eES5CLPGjxA/Um2Ia_Fj1YI/AAAAAAAATvM/LzaFWaZTT00/s144/2013-10-28%25252010.20.15.jpg'
+				height='108' width='144' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-eES5CLPGjxA/Um2Ia_Fj1YI/AAAAAAAATvM/LzaFWaZTT00/s288/2013-10-28%25252010.20.15.jpg'
+				height='216' width='288' />
+			<media:title type='plain'>2013-10-28 10.20.15.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592658836352338
+		</id>
+		<published>2013-11-15T20:56:36.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-11-15 11.45.24.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh5.googleusercontent.com/-8TYy0sDpV-k/UoaKhE3i7VI/AAAAAAAAT7U/R--bsV735ZE/2013-11-15%25252011.45.24.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592658836352338' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5946592658836352338' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/2Mqg8ChXqvcAkyFKHGwWKNMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592658836352338' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592658836352338/3?tok=QUI1UGxRYTZ4Skcyczh5YzlIdWJ2anp3Z0FsbHN3SG9PdzoxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592658836352338/3?tok=QUI1UGxRYkZvUFFfdDVHQWowUll1TWVyN2JNUHg1aFRfZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592658836352338/3?tok=QUI1UGxRYkZvUFFfdDVHQWowUll1TWVyN2JNUHg1aFRfZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5946592658836352338' />
+		<gphoto:id>5946592658836352338</gphoto:id>
+		<gphoto:version>3</gphoto:version>
+		<gphoto:position>8.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>1536</gphoto:width>
+		<gphoto:height>2048</gphoto:height>
+		<gphoto:size>1281176</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1384469124000</gphoto:timestamp>
+		<gphoto:imageVersion>20405</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_c1b82fcc61cdec7a7bb4a7b312674756
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>4.5516613E-4</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1384515924000</exif:time>
+			<exif:imageUniqueID>0c9a846a5927b0180000000000000000
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh5.googleusercontent.com/-8TYy0sDpV-k/UoaKhE3i7VI/AAAAAAAAT7U/R--bsV735ZE/2013-11-15%25252011.45.24.jpg'
+				height='512' width='384' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-8TYy0sDpV-k/UoaKhE3i7VI/AAAAAAAAT7U/R--bsV735ZE/s72/2013-11-15%25252011.45.24.jpg'
+				height='72' width='54' />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-8TYy0sDpV-k/UoaKhE3i7VI/AAAAAAAAT7U/R--bsV735ZE/s144/2013-11-15%25252011.45.24.jpg'
+				height='144' width='108' />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-8TYy0sDpV-k/UoaKhE3i7VI/AAAAAAAAT7U/R--bsV735ZE/s288/2013-11-15%25252011.45.24.jpg'
+				height='288' width='216' />
+			<media:title type='plain'>2013-11-15 11.45.24.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592755050347650
+		</id>
+		<published>2013-11-15T20:56:58.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>IMG_5273.JPG</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh4.googleusercontent.com/-TMlHOvIQMUU/UoaKmrSv_II/AAAAAAAAT6w/7GhwPhmlaaI/IMG_5273.JPG' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592755050347650' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5946592755050347650' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/7F2bMldkWEqE18AGLCllLNMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592755050347650' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592755050347650/3?tok=QUI1UGxRWm9GaWotSWs4S0RCclo2enVZNlgxaVljcmxHUToxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592755050347650/3?tok=QUI1UGxRYmQ1QTNHZmxMYkc3V01iS1EyNWNJT0JKcUdWQToxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592755050347650/3?tok=QUI1UGxRYmQ1QTNHZmxMYkc3V01iS1EyNWNJT0JKcUdWQToxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5946592755050347650' />
+		<gphoto:id>5946592755050347650</gphoto:id>
+		<gphoto:version>3</gphoto:version>
+		<gphoto:position>9.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>2448</gphoto:width>
+		<gphoto:height>3264</gphoto:height>
+		<gphoto:size>1167937</gphoto:size>
+		<gphoto:client>picasa</gphoto:client>
+		<gphoto:checksum>c0ecfba5</gphoto:checksum>
+		<gphoto:timestamp>1384237696000</gphoto:timestamp>
+		<gphoto:imageVersion>20396</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>shared_group_5946592755050347650</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>3.2</exif:fstop>
+			<exif:make>Canon</exif:make>
+			<exif:model>Canon PowerShot A720 IS</exif:model>
+			<exif:exposure>0.016666668</exif:exposure>
+			<exif:flash>true</exif:flash>
+			<exif:focallength>11.546</exif:focallength>
+			<exif:iso>320</exif:iso>
+			<exif:time>1384284496000</exif:time>
+			<exif:imageUniqueID>efb30fcbb6773e174b368c0a682a7a71
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh4.googleusercontent.com/-TMlHOvIQMUU/UoaKmrSv_II/AAAAAAAAT6w/7GhwPhmlaaI/IMG_5273.JPG'
+				height='512' width='384' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-TMlHOvIQMUU/UoaKmrSv_II/AAAAAAAAT6w/7GhwPhmlaaI/s72/IMG_5273.JPG'
+				height='72' width='54' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-TMlHOvIQMUU/UoaKmrSv_II/AAAAAAAAT6w/7GhwPhmlaaI/s144/IMG_5273.JPG'
+				height='144' width='108' />
+			<media:thumbnail
+				url='https://lh4.googleusercontent.com/-TMlHOvIQMUU/UoaKmrSv_II/AAAAAAAAT6w/7GhwPhmlaaI/s288/IMG_5273.JPG'
+				height='288' width='216' />
+			<media:title type='plain'>IMG_5273.JPG</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592804916089426
+		</id>
+		<published>2013-11-15T20:57:10.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>2013-11-15 11.45.03.jpg</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh3.googleusercontent.com/-5CPenIbKJy8/UoaKplDq0lI/AAAAAAAAT7g/DspaujnCEZM/2013-11-15%25252011.45.03.jpg' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592804916089426' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5946592804916089426' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/B6w942Uubdn57FL-BzdLSNMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592804916089426' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592804916089426/3?tok=QUI1UGxRYUliMVEtS3N6MkRUcVlBUlU4ejV6QXVBaUN4ZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592804916089426/3?tok=QUI1UGxRWTgxLUpoVi11MFY1SjdPTDdzWklJUW5wSWNQQToxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592804916089426/3?tok=QUI1UGxRWTgxLUpoVi11MFY1SjdPTDdzWklJUW5wSWNQQToxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5946592804916089426' />
+		<gphoto:id>5946592804916089426</gphoto:id>
+		<gphoto:version>3</gphoto:version>
+		<gphoto:position>10.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>1536</gphoto:width>
+		<gphoto:height>2048</gphoto:height>
+		<gphoto:size>1466477</gphoto:size>
+		<gphoto:client />
+		<gphoto:checksum />
+		<gphoto:timestamp>1384469101000</gphoto:timestamp>
+		<gphoto:imageVersion>20408</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>cs_01_b85e91400109dc0b65cc0d55223a1434
+		</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.6</exif:fstop>
+			<exif:make>SAMSUNG</exif:make>
+			<exif:model>GT-S5570</exif:model>
+			<exif:exposure>5.527916E-4</exif:exposure>
+			<exif:focallength>2.78</exif:focallength>
+			<exif:iso>50</exif:iso>
+			<exif:time>1384515901000</exif:time>
+			<exif:imageUniqueID>1f70edb99fcb93ff0000000000000000
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh3.googleusercontent.com/-5CPenIbKJy8/UoaKplDq0lI/AAAAAAAAT7g/DspaujnCEZM/2013-11-15%25252011.45.03.jpg'
+				height='512' width='384' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh3.googleusercontent.com/-5CPenIbKJy8/UoaKplDq0lI/AAAAAAAAT7g/DspaujnCEZM/s72/2013-11-15%25252011.45.03.jpg'
+				height='72' width='54' />
+			<media:thumbnail
+				url='https://lh3.googleusercontent.com/-5CPenIbKJy8/UoaKplDq0lI/AAAAAAAAT7g/DspaujnCEZM/s144/2013-11-15%25252011.45.03.jpg'
+				height='144' width='108' />
+			<media:thumbnail
+				url='https://lh3.googleusercontent.com/-5CPenIbKJy8/UoaKplDq0lI/AAAAAAAAT7g/DspaujnCEZM/s288/2013-11-15%25252011.45.03.jpg'
+				height='288' width='216' />
+			<media:title type='plain'>2013-11-15 11.45.03.jpg</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592806085157458
+		</id>
+		<published>2013-11-15T20:57:10.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>IMG_5276.JPG</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh6.googleusercontent.com/-aQM26dkTCYE/UoaKppaZYlI/AAAAAAAAT7A/42WPJYSndGs/IMG_5276.JPG' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592806085157458' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5946592806085157458' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/J8kw83siAs50XkEPQlGFQdMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592806085157458' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592806085157458/3?tok=QUI1UGxRYnZJcm9EWklrR1p2XzNwV1BQeE56enFEVllGQToxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592806085157458/3?tok=QUI1UGxRYS1tVXNPeEpUWGVHN1ROYXZtY1lzUVNwSkVxQToxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592806085157458/3?tok=QUI1UGxRYS1tVXNPeEpUWGVHN1ROYXZtY1lzUVNwSkVxQToxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5946592806085157458' />
+		<gphoto:id>5946592806085157458</gphoto:id>
+		<gphoto:version>3</gphoto:version>
+		<gphoto:position>11.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>2448</gphoto:width>
+		<gphoto:height>3264</gphoto:height>
+		<gphoto:size>1060949</gphoto:size>
+		<gphoto:client>picasa</gphoto:client>
+		<gphoto:checksum>86a054ee</gphoto:checksum>
+		<gphoto:timestamp>1384237758000</gphoto:timestamp>
+		<gphoto:imageVersion>20400</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>shared_group_5946592806085157458</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>3.2</exif:fstop>
+			<exif:make>Canon</exif:make>
+			<exif:model>Canon PowerShot A720 IS</exif:model>
+			<exif:exposure>0.016666668</exif:exposure>
+			<exif:flash>true</exif:flash>
+			<exif:focallength>11.546</exif:focallength>
+			<exif:iso>200</exif:iso>
+			<exif:time>1384284558000</exif:time>
+			<exif:imageUniqueID>ce93d8c831e0fc0ee8385d4b15e75070
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh6.googleusercontent.com/-aQM26dkTCYE/UoaKppaZYlI/AAAAAAAAT7A/42WPJYSndGs/IMG_5276.JPG'
+				height='512' width='384' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-aQM26dkTCYE/UoaKppaZYlI/AAAAAAAAT7A/42WPJYSndGs/s72/IMG_5276.JPG'
+				height='72' width='54' />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-aQM26dkTCYE/UoaKppaZYlI/AAAAAAAAT7A/42WPJYSndGs/s144/IMG_5276.JPG'
+				height='144' width='108' />
+			<media:thumbnail
+				url='https://lh6.googleusercontent.com/-aQM26dkTCYE/UoaKppaZYlI/AAAAAAAAT7A/42WPJYSndGs/s288/IMG_5276.JPG'
+				height='288' width='216' />
+			<media:title type='plain'>IMG_5276.JPG</media:title>
+		</media:group>
+	</entry>
+	<entry>
+		<id>https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592832457727970
+		</id>
+		<published>2013-11-15T20:57:16.000Z</published>
+		<updated>2013-11-15T21:01:50.013Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/photos/2007#photo' />
+		<title type='text'>IMG_5271.JPG</title>
+		<summary type='text' />
+		<content type='image/jpeg'
+			src='https://lh5.googleusercontent.com/-IvEtX1Hcztg/UoaKrLqG3-I/AAAAAAAAT7E/9jyfqPDIl5c/IMG_5271.JPG' />
+		<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/feed/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592832457727970' />
+		<link rel='alternate' type='text/html'
+			href='https://picasaweb.google.com/101488109748928583216/TessaDJappervilla#5946592832457727970' />
+		<link rel='http://schemas.google.com/photos/2007#canonical' type='text/html'
+			href='https://picasaweb.google.com/lh/photo/RkZIJb0JxdVmGgJCXcJZGdMTjNZETYmyPJy0liipFm0' />
+		<link rel='self' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592832457727970' />
+		<link rel='edit' type='application/atom+xml'
+			href='https://picasaweb.google.com/data/entry/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592832457727970/3?tok=QUI1UGxRYWxNSlR1RFdLSEFaOF8tNGhPUktJY2JYRHY5ZzoxMzg2MTUwNDg5OTU4' />
+		<link rel='edit-media' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592832457727970/3?tok=QUI1UGxRYmtwOTFwNGU0c3IzOTdMZmZSaXVnX19rU20ydzoxMzg2MTUwNDg5OTU4' />
+		<link rel='media-edit' type='image/jpeg'
+			href='https://picasaweb.google.com/data/media/api/user/101488109748928583216/albumid/5938894451891583841/photoid/5946592832457727970/3?tok=QUI1UGxRYmtwOTFwNGU0c3IzOTdMZmZSaXVnX19rU20ydzoxMzg2MTUwNDg5OTU4' />
+		<link rel='http://schemas.google.com/photos/2007#report' type='text/html'
+			href='https://picasaweb.google.com/lh/reportAbuse?uname=101488109748928583216&amp;aid=5938894451891583841&amp;iid=5946592832457727970' />
+		<gphoto:id>5946592832457727970</gphoto:id>
+		<gphoto:version>3</gphoto:version>
+		<gphoto:position>12.0</gphoto:position>
+		<gphoto:albumid>5938894451891583841</gphoto:albumid>
+		<gphoto:access>public</gphoto:access>
+		<gphoto:width>2517</gphoto:width>
+		<gphoto:height>1884</gphoto:height>
+		<gphoto:size>389682</gphoto:size>
+		<gphoto:client>picasa</gphoto:client>
+		<gphoto:checksum>c3122ec0</gphoto:checksum>
+		<gphoto:timestamp>1382862483000</gphoto:timestamp>
+		<gphoto:imageVersion>20401</gphoto:imageVersion>
+		<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+		<gphoto:commentCount>0</gphoto:commentCount>
+		<gphoto:streamId>shared_group_5946592832457727970</gphoto:streamId>
+		<gphoto:license id='0' name='All Rights Reserved' url=''>ALL_RIGHTS_RESERVED
+		</gphoto:license>
+		<gphoto:shapes faces='done' />
+		<exif:tags>
+			<exif:fstop>2.8</exif:fstop>
+			<exif:make>Canon</exif:make>
+			<exif:model>Canon PowerShot A720 IS</exif:model>
+			<exif:exposure>0.016666668</exif:exposure>
+			<exif:flash>true</exif:flash>
+			<exif:focallength>5.8</exif:focallength>
+			<exif:iso>80</exif:iso>
+			<exif:time>1382909283000</exif:time>
+			<exif:imageUniqueID>09847e577f5b03c4f4c0da2ab4e10e24
+			</exif:imageUniqueID>
+		</exif:tags>
+		<media:group>
+			<media:content
+				url='https://lh5.googleusercontent.com/-IvEtX1Hcztg/UoaKrLqG3-I/AAAAAAAAT7E/9jyfqPDIl5c/IMG_5271.JPG'
+				height='384' width='512' type='image/jpeg' medium='image' />
+			<media:credit>richard schmidt</media:credit>
+			<media:description type='plain' />
+			<media:keywords />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-IvEtX1Hcztg/UoaKrLqG3-I/AAAAAAAAT7E/9jyfqPDIl5c/s72/IMG_5271.JPG'
+				height='54' width='72' />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-IvEtX1Hcztg/UoaKrLqG3-I/AAAAAAAAT7E/9jyfqPDIl5c/s144/IMG_5271.JPG'
+				height='108' width='144' />
+			<media:thumbnail
+				url='https://lh5.googleusercontent.com/-IvEtX1Hcztg/UoaKrLqG3-I/AAAAAAAAT7E/9jyfqPDIl5c/s288/IMG_5271.JPG'
+				height='216' width='288' />
+			<media:title type='plain'>IMG_5271.JPG</media:title>
+		</media:group>
+	</entry>
+</feed>
