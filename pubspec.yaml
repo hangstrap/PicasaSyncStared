@@ -1,7 +1,6 @@
 name: picasa_best_of
 description: A sample command-line application
 dependencies:
-  google_plus_v1_api: any
   ini: any
   path: any
   unittest: any
