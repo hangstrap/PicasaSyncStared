@@ -3,4 +3,5 @@ description: A sample command-line application
 dependencies:
   ini: any
   path: any
+  quiver: ">=0.21.3 <0.22.0"
   unittest: any
