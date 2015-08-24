@@ -30,7 +30,7 @@ void main() {
   fixImportDirectory.fixPicasaImportDirectories();
 
   Directory photos = new Directory(
-      "C:\\Users\\Public\\Pictures\\Pictures\\photos");
+      "C:/Users/hangs_000/Pictures");
 
   //neested function
   bool isYearDirectory(FileSystemEntity entity) {

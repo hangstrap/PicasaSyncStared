@@ -9,7 +9,6 @@ void processYearDirectory( String pathToDirectory){
     
   Directory directoryToProcess = _constructDirectoryObject( pathToDirectory);
   
-  String year = path.basename( pathToDirectory);
   
   directoryToProcess.listSync()
     .where( (e)=>isDirectory(e))

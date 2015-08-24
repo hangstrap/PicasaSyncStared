@@ -7,9 +7,9 @@ void main(){
 
 void fixPicasaImportDirectories(){
   
-  print( "Converting any import directories created by Picasa into the format YYYY\YYYY-MM-DD");
+  print( "Converting any import directories created by Picasa into the format YYYY \\ YYYY-MM-DD");
   
-  Directory photos = new Directory( "C:\\Users\\Public\\Pictures\\Pictures\\photos");
+  Directory photos = new Directory( "C:/Users/hangs_000/Pictures");
   
   photos.listSync()
     .where( (e)=>_isImportDirectory(e)).forEach((e) => _processImportDirectory( e));
